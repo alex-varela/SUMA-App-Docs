@@ -1,5 +1,5 @@
 
-# Manual Upload builds for iOS and Android (Manually)
+# Manual Upload - Builds for iOS and Android (Manually)
 
 ## steps:
 
