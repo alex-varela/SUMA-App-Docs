@@ -139,7 +139,7 @@ VERSION_NAME='X.X.X'
 VERSION_BUILD=XX
 ```
 
-### SUMA App versioning
+### SUMA App Semantic Versioning
 Versioning is very important when testing and eventually when you release. Usually versioning depends on project, but you can follow a basic template that we have used on Iconic before:
 ``` plainText
 V1.2.3 (4)
